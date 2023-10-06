@@ -8,9 +8,9 @@
        }
     </syle>
  <body>
-    <fieldset><
+    <fieldset>
    <legend>CADASTRAR</legend>
-   <input type="text" placeholder="usuario">
+<input type="text" placeholder="usuario">
    </fieldset>
-</body>
+  </body>
 </html>
