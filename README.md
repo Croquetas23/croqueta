@@ -10,7 +10,13 @@
  <body>
     <fieldset>
    <legend>CADASTRAR</legend>
-<input type="text" placeholder="usuario">
+  <p>USUARIO:<>input type="text" placeholder="usuario"><br<br>
+  <p>USUARIO:<>input type="password" placeholder="senha"><br<br>
+   <select>
+    <option>VOLEI/option>
+    <option></option>
+    <option></option>
+    
    </fieldset>
   </body>
 </html>
