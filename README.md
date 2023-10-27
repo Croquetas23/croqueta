@@ -2,10 +2,11 @@
    <head>
   <title>primeiro site do 1c</title>
    </head>
-<style>
+   <style>
   body{
-      background-color:blue;
-       }
+   background-color:#0000ff;
+   color:#ffffff;
+    }   
     </syle>
  <body>
     <fieldset>
@@ -16,7 +17,7 @@
     <option>VOLEI/option>
     <option></option>
     <option></option>
-    
+    </select>
    </fieldset>
   </body>
 </html>
